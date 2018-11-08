@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is E8FB-A8C8
+
+ Directory of D:\Study\git\gittest
+
+08-11-2018  10:56    <DIR>          .
+08-11-2018  10:56    <DIR>          ..
+08-11-2018  10:56                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  81,041,248,256 bytes free
